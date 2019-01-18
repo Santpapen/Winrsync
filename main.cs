@@ -2,9 +2,9 @@
  * Licensed under the Apache License, Version 2.0 (the "License");
  * 
 Author: Roland Santiago
-Date: 15/01/2018
+Date: 18/01/2018
 Project_base: Apt_windows
-Description: First version (Download pool files of the Debian repository)
+Description: First version (Download pool files of the Debian repository) ftp.es.debian.org [line 27,122]
  */
 using System;
 using System.IO;
